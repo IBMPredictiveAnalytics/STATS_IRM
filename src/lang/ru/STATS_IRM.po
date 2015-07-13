@@ -1,0 +1,101 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_IRM.R:82
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Необходим пакет R %s, но его не удалось загрузить."
+
+#: STATS_IRM.R:91
+msgid "ERROR:"
+msgstr ""
+"ОШИБКА:"
+
+#: STATS_IRM.R:98
+msgid "Three Parameter Item Respose Model"
+msgstr ""
+"Трехпараметрическая модель ответа элемента"
+
+#: STATS_IRM.R:106
+msgid "Summary"
+msgstr ""
+"Итог"
+
+#: STATS_IRM.R:144
+msgid "Item Fit Statistics"
+msgstr ""
+"Статистики согласованности для вопросов"
+
+#: STATS_IRM.R:173
+msgid "Response pattern"
+msgstr ""
+"Образец ответов"
+
+#: STATS_IRM.R:175
+msgid "Item %s"
+msgstr ""
+"Элемент %s"
+
+#: STATS_IRM.R:178
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Статистика Левина и Рубина согласия для испытуемых"
+
+#: STATS_IRM.R:179
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Статистика Дрэзгоу согласия для испытуемых"
+
+#: STATS_IRM.R:180
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"p-значение для статистики Дрэзгоу согласия для испытуемых"
+
+#: STATS_IRM.R:181
+msgid "Observed frequency"
+msgstr ""
+"Наблюденная частота"
+
+#: STATS_IRM.R:182
+msgid "Expected frequency"
+msgstr ""
+"Ожидаемая частота"
+
+#: STATS_IRM.R:183
+msgid "Factor scores"
+msgstr ""
+"Значения факторов"
+
+#: STATS_IRM.R:184
+msgid "Factor scores standard errors"
+msgstr ""
+"Стандартные ошибки значений факторов"
+
+#: STATS_IRM.R:185
+msgid "Residuals"
+msgstr ""
+"Остатки"
+
+#: STATS_IRM.R:208
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"Не удалось создать набор данных статистик подгонки. Набор данных с таким именем не может уже существовать."
+
+
