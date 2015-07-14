@@ -1,0 +1,101 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_IRM.R:82
+msgid "The R %s package is required but could not be loaded."
+msgstr ""
+"Le pack R %s est requis mais n'a pas pu être chargé."
+
+#: STATS_IRM.R:91
+msgid "ERROR:"
+msgstr ""
+"ERREUR :"
+
+#: STATS_IRM.R:98
+msgid "Three Parameter Item Respose Model"
+msgstr ""
+"Modèle de réponse aux items à trois paramètres"
+
+#: STATS_IRM.R:106
+msgid "Summary"
+msgstr ""
+"Récapitulatif"
+
+#: STATS_IRM.R:144
+msgid "Item Fit Statistics"
+msgstr ""
+"Statistiques sur les éléments"
+
+#: STATS_IRM.R:173
+msgid "Response pattern"
+msgstr ""
+"Motif de réponse"
+
+#: STATS_IRM.R:175
+msgid "Item %s"
+msgstr ""
+"Elément %s"
+
+#: STATS_IRM.R:178
+msgid "Levine and Rubin person-fit statistic"
+msgstr ""
+"Statistiques sur les personnes de Levin et Rubin"
+
+#: STATS_IRM.R:179
+msgid "Drasgow person-fit statistic"
+msgstr ""
+"Statistiques sur les personnes de Drasgow"
+
+#: STATS_IRM.R:180
+msgid "P-value for Drasgow person-fit statistic"
+msgstr ""
+"Valeur P pour les statistiques sur les personnes de Drasgow"
+
+#: STATS_IRM.R:181
+msgid "Observed frequency"
+msgstr ""
+"Fréquence observée"
+
+#: STATS_IRM.R:182
+msgid "Expected frequency"
+msgstr ""
+"Fréquence attendue"
+
+#: STATS_IRM.R:183
+msgid "Factor scores"
+msgstr ""
+"Scores factoriels"
+
+#: STATS_IRM.R:184
+msgid "Factor scores standard errors"
+msgstr ""
+"Erreurs standard des scores factoriels"
+
+#: STATS_IRM.R:185
+msgid "Residuals"
+msgstr ""
+"Résidus"
+
+#: STATS_IRM.R:208
+msgid "Failed to create person fit statistics dataset. Dataset name must not already exist: "
+msgstr ""
+"Impossible de créer un jeu de données des statistiques d'ajustement de personne. Le nom du jeu de données ne doit pas déjà exister : "
+
+
