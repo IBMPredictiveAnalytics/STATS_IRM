@@ -1,11 +1,11 @@
 # STATS_IRM
 ## Fit three parameter item response models
- Executes the tpm function from the R ltm package.  The va
+ Executes the tpm function from the R ltm package.  The variable list specifies the items.  It is assumed that the values of these variables is 0,1.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
 
 ---
 Installation intructions
