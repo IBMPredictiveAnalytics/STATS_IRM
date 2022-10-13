@@ -1,4 +1,5 @@
 Name: STATS_IRM
+Display-Name: Item Response Models
 Dialog-Specs: STATS_IRM.spd
 Command-Specs: STATS_IRM.xml
 Code-Files: STATS_IRM.R
@@ -8,7 +9,7 @@ Description: Executes the tpm function from the R ltm package.  The va
  riable list specifies the items.  It is assumed that the values of th
  ese variables is 0,1.
 Author: Alex Reutter, IBM SPSS
-Version: 1.1.7
+Version: 1.1.6
 Product-Version: 18
 Date: 12/21/11
 Links: http://wiki.r-project.org/rwiki/doku.php?id=packages:cran:ltm
